@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"runtime"
 
-	"github.com/zserge/lorca"
+	"github.com/wulalawulala/lorca"
 )
 
 func main() {
